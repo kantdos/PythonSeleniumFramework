@@ -1,0 +1,14 @@
+1601750764543	geckodriver	INFO	Listening on 127.0.0.1:62446
+1601750765115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RK0052~1\\AppData\\Local\\Temp\\rust_mozprofileIsyFLj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1601750791758	Marionette	INFO	Listening on port 62452
+1601750803710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601750845360	Marionette	INFO	Stopped listening on port 62452
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

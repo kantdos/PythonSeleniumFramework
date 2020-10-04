@@ -1,0 +1,40 @@
+2020-10-04 23:09:26,030 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:09:27,068 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:09:34,826 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 23:12:03,645 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:12:04,279 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:12:10,496 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 23:13:43,226 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:13:44,696 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:13:50,757 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 23:14:45,877 : INFO : test_formSubmission : First name is Ravi
+2020-10-04 23:14:52,095 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:14:52,095 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:15:15,036 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:15:16,324 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:15:23,391 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 23:17:27,896 : INFO : test_formSubmission : First name is Ravi
+2020-10-04 23:17:30,878 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:17:30,878 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:17:54,904 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:17:55,729 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:18:02,083 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 23:29:13,733 : INFO : test_formSubmission : First name is Ravi
+2020-10-04 23:29:16,481 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:29:16,481 : INFO : test_formSubmission : First name is ABC
+2020-10-04 23:29:31,429 : INFO : test_e2e : Getting all the card titles
+2020-10-04 23:29:31,940 : INFO : test_e2e : Entering country name Ind
+2020-10-04 23:29:38,154 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-05 00:06:57,492 : INFO : test_formSubmission : First name is Ravi
+2020-10-05 00:07:02,096 : INFO : test_formSubmission : First name is ABC
+2020-10-05 00:07:02,096 : INFO : test_formSubmission : First name is ABC
+2020-10-05 00:07:28,744 : INFO : test_e2e : Getting all the card titles
+2020-10-05 00:07:29,691 : INFO : test_e2e : Entering country name Ind
+2020-10-05 00:07:36,214 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
